@@ -7,29 +7,29 @@ This is bash script for browsing  file.
 
 * Run setup script
 
-sh setup.sh
+	sh setup.sh
 
 ## Usage
 * Go to specify directory
 
-cd [FOLDER'S PATH]
+	cd [FOLDER'S PATH]
 
 * Go to parent directory
 
-u
+	u
 
 * Go to forward directory
 
-f
+	f
 
 * Go to backward directory
 
-b
+	b
 
 * Print browsing history
 
-p
+	p
 
 * Go to browsed fold by index
 
-p INDEX
+	p INDEX
